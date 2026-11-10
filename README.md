@@ -63,4 +63,4 @@ The practical implementation covers Ansible-based configuration management and N
 GitHub Actions, Prometheus and Grafana are discussed as part of the proposed DevOps workflow, but are not implemented in this practical demonstration.
 
 ## Author
-Om Sinkar
+Prajwal Jadhav
